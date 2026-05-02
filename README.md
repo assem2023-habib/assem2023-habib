@@ -53,7 +53,7 @@ I enjoy transforming business ideas into real-world applications by designing ef
 # 📌 Featured Projects
 
 ## 🚴 Jeeb — Multi-Service Delivery Platform
-Backend system built with NestJS, PostgreSQL, and Redis.
+Backend system built with NestJS, PostgreSQL, Redis, and Docker.
 
 ### Features:
 - Wallet & Payments
@@ -61,6 +61,8 @@ Backend system built with NestJS, PostgreSQL, and Redis.
 - Real-Time Tracking
 - Authentication & Authorization
 - Background Queue Processing
+- Dockerized Application Architecture
+- Containerized Development & Deployment Environment
 
 ---
 
