@@ -52,14 +52,15 @@ I enjoy transforming business ideas into real-world applications by designing ef
 
 # 📌 Featured Projects
 
-## 🚚 SmartShip — Parcel Delivery Management System
-A scalable parcel delivery system built using Laravel and RESTful APIs.
+## 🚴 Jeeb — Multi-Service Delivery Platform
+Backend system built with NestJS, PostgreSQL, and Redis.
 
 ### Features:
-- Shipment Tracking
-- Role-Based Access Control
-- Delivery Workflow Management
-- Real-Time Tracking System
+- Wallet & Payments
+- Loyalty System
+- Real-Time Tracking
+- Authentication & Authorization
+- Background Queue Processing
 
 ---
 
@@ -75,15 +76,14 @@ Scalable e-commerce backend built using Node.js & Express.js.
 
 ---
 
-## 🚴 Jeeb — Multi-Service Delivery Platform
-Backend system built with NestJS, PostgreSQL, and Redis.
+## 🚚 SmartShip — Parcel Delivery Management System
+A scalable parcel delivery system built using Laravel and RESTful APIs.
 
 ### Features:
-- Wallet & Payments
-- Loyalty System
-- Real-Time Tracking
-- Authentication & Authorization
-- Background Queue Processing
+- Shipment Tracking
+- Role-Based Access Control
+- Delivery Workflow Management
+- Real-Time Tracking System
 
 ---
 
